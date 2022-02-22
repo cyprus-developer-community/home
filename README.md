@@ -28,7 +28,12 @@
   <td valign="top" width="25%">
   <div align="center">
     <img src="https://avatars.githubusercontent.com/NVerban?s=150" alt="Nicholas Verban"" width="150" height="150" />
-    <p>Co-Founder / Organizer @ AWS User Group Cyprus</p></p>
+    <p>Co-Founder / Organizer @ AWS User Group Cyprus</p>
+  </div>
+  <td valign="top" width="25%">
+  <div align="center">
+    <img src="https://avatars.githubusercontent.com/saitonakamura?s=150" alt="Nicholas Verban"" width="150" height="150" />
+    <p>Michael Bashurov, Co-Organizer @ CyprusJS</p>
   </div>
 </tr></table>
 
