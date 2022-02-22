@@ -1,6 +1,6 @@
 # Cyprus Developer Community Home
 
-<p align="center" class="flex">
+<p align="center">
   <a href="https://cdc.cy/cyprusjs" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/cyprusjs.jpeg" width="300" height="168" /></a>
   <a href="https://cdc.cy/awsusergroup" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/aws-user-group-cyprus.jpg" width="300" height="198" /></a>
 </p>
@@ -18,9 +18,9 @@
 
 ## Organizers Team
 
-<p align="center" class="flex">
-  <div><img class="avatar-user" src="https://avatars.githubusercontent.com/patrickheneise?s=300" alt="Patrick Heneise"" width="300" height="300" /><p>Patrick Heneise, Founder / Co-Organizer @ CyprusJS</p></div>
-  <div><img class="avatar-user" src="https://avatars.githubusercontent.com/NVerban?s=300" alt="Nicholas Verban"" width="300" height="300" /><p>Co-Founder / Organizer @ AWS User Group Cyprus</p></div>
+<p align="center">
+  <div><img src="https://avatars.githubusercontent.com/patrickheneise?s=150" alt="Patrick Heneise"" width="150" height="150" /><p>Patrick Heneise, Founder / Co-Organizer @ CyprusJS</p></div>
+  <div><img src="https://avatars.githubusercontent.com/NVerban?s=150" alt="Nicholas Verban"" width="150" height="150" /><p>Co-Founder / Organizer @ AWS User Group Cyprus</p></div>
 </p>
 
 ## Code of Conduct
