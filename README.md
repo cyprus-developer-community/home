@@ -19,8 +19,8 @@
 ## Organizers Team
 
 <p align="center">
-  <div><img src="https://avatars.githubusercontent.com/patrickheneise?s=150" alt="Patrick Heneise"" width="150" height="150" /><p>Patrick Heneise, Founder / Co-Organizer @ CyprusJS</p></div>
-  <div><img src="https://avatars.githubusercontent.com/NVerban?s=150" alt="Nicholas Verban"" width="150" height="150" /><p>Co-Founder / Organizer @ AWS User Group Cyprus</p></div>
+  <p><img src="https://avatars.githubusercontent.com/patrickheneise?s=150" alt="Patrick Heneise"" width="150" height="150" /><p>Patrick Heneise, Founder / Co-Organizer @ CyprusJS</p></p>
+  <p><img src="https://avatars.githubusercontent.com/NVerban?s=150" alt="Nicholas Verban"" width="150" height="150" /><p>Co-Founder / Organizer @ AWS User Group Cyprus</p></p>
 </p>
 
 ## Code of Conduct
