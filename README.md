@@ -18,8 +18,30 @@
 
 ## Organizers Team
 
-- [PatrickHeneise](https://github.com/patrickheneise) (Founder)
-- [Nicholas Verban](https://github.com/NVerban) (Founder)
+<ul role="list" class="mx-auto grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:max-w-5xl lg:gap-x-8 lg:gap-y-12 xl:grid-cols-6">
+  <li>
+    <div class="space-y-4">
+      <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24" src="https://avatars.githubusercontent.com/patrickheneise?s=300" alt="Patrick Heneise">
+      <div class="space-y-2">
+        <div class="text-xs font-medium lg:text-sm">
+          <h3>Patrick Heneise</h3>
+          <p class="text-indigo-600">Co-Founder / Organizer @ CyprusJS</p>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="space-y-4">
+      <img class="mx-auto h-20 w-20 rounded-full lg:w-24 lg:h-24" src="https://avatars.githubusercontent.com/NVerban?s=300" alt="Nicholas Verban">
+      <div class="space-y-2">
+        <div class="text-xs font-medium lg:text-sm">
+          <h3>Nicholas Verban</h3>
+          <p class="text-indigo-600">Co-Founder / Organizer @ AWS User Group Cyprus</p>
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
 
 ## Code of Conduct
 
