@@ -18,8 +18,8 @@
 
 ## Organizers Team
 
-<table border="0" style="border:0;"><tr style="border:0;">
-<td valign="top" width="25%">
+<table border="0" style="border:0;"><tr>
+<td valign="top" width="25%" border="0" style="border: 0;">
   <div align="center">
     <img src="https://avatars.githubusercontent.com/patrickheneise?s=150" alt="Patrick Heneise"" width="150" height="150" />
     <p>Patrick Heneise, Founder / Co-Organizer @ CyprusJS</p>
