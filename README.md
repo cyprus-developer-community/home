@@ -5,6 +5,9 @@
   <a href="https://cdc.cy/awsusergroup" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/aws-user-group-cyprus.jpg" width="300" height="198" /></a>
 </p>
 
+[Join us on Discord](https://chat.cdc.cy) or participate in our
+[discussions on GitHub](https://github.com/cyprus-developer-community/home/discussions)
+
 ## JavaScript User Group (@CyprusJS)
 
 - [cyprusjs.org](https://cyprusjs.org)
