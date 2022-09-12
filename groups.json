@@ -1,23 +1,91 @@
 [
-  {
-    "name": "CyprusJS",
-    "logo": {
-      "svg": "https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/cyprusjs.svg",
-      "png": "https://github.com/cyprus-developer-community/home/blob/main/assets/cyprusjs.png?raw=true",
-      "width": 600,
-      "height": 337
-    },
-    "organizers": [
-      {
-        "name": "Michael Bashurov",
-        "github": "https://github.com/saitonakamura"
-      }
-    ],
-    "links": [
-      {
-        "type": "website",
-        "href": "https://cyprusjs.org"
-      }
-    ]
-  }
+	{
+		"name": "CyprusJS",
+		"slug": "cyprus-js",
+		"logo": {
+			"svg": "https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/cyprusjs.svg",
+			"png": "https://github.com/cyprus-developer-community/home/blob/main/assets/cyprusjs.png?raw=true",
+			"width": 600,
+			"height": 337
+		},
+		"organizers": [
+			{
+				"name": "Michael Bashurov",
+				"github": "https://github.com/saitonakamura"
+			}
+		],
+		"links": [
+			{
+				"type": "website",
+				"href": "https://cyprusjs.org"
+			}
+		],
+		"excerpt": "CyprusJS is place for JavaScript enthusiasts in Cyprus to come together and discuss JavaScript and related technologies, learn from each other and solve problems."
+	},
+	{
+		"name": "AWS User Group Cyprus",
+		"slug": "aws-cy",
+		"logo": {
+			"png": "https://github.com/cyprus-developer-community/home/blob/main/assets/aws-user-group-cyprus.jpg?raw=true",
+			"width": 1251,
+			"height": 790
+		},
+		"organizers": [
+			{
+				"name": "Nicholas Verban",
+				"github": "https://github.com/NVerban"
+			}
+		],
+		"links": [
+			{
+				"type": "meetup",
+				"href": "https://www.meetup.com/aws-users-cyprus"
+			}
+		],
+		"excerpt": "AWS User Group Cyprus has a mission to gather all informational technology enthusiasts, as well as all of those who are interested in Amazon Web Services, Cloud Computing, DevOps and are located in on the island and/or want to be part of our dev community."
+	},
+	{
+		"name": "GDG Cyprus",
+		"slug": "gdg-cy",
+		"logo": {
+			"png": "https://github.com/cyprus-developer-community/home/blob/main/assets/gdgcyprus.png?raw=true",
+			"width": 525,
+			"height": 525
+		},
+		"organizers": [
+			{
+				"name": "Andreas Loizou",
+				"github": "https://github.com/lack3r"
+			}
+		],
+		"links": [
+			{
+				"type": "meetup",
+				"href": "https://www.meetup.com/gdg-cyprus"
+			}
+		],
+		"excerpt": "GDG Cyprus is an independent group of developers across Cyprus. We aim to run tech talks, workshops, study groups, networking events and hackathons as well as partner with major initiatives in Cyprus to promote and support the technical community of Cyprus."
+	},
+	{
+		"name": "Py-Data-Cy",
+		"slug": "py-data-cy",
+		"logo": {
+			"png": "https://github.com/cyprus-developer-community/home/blob/main/assets/pydata-small-text.png?raw=true",
+			"width": 952,
+			"height": 718
+		},
+		"organizers": [
+			{
+				"name": "Christos Christodoulou",
+				"github": "https://github.com/chr7stos"
+			}
+		],
+		"links": [
+			{
+				"type": "meetup",
+				"href": "https://www.meetup.com/pydata-cyprus/"
+			}
+		],
+		"excerpt": "PyData Cyprus is the Cyprus chapter of the international PyData community. This is a group for anyone interested in data science. All skill levels are welcome. We started this group because we want to meet other enthusiasts in the area. We're looking forward to exploring exciting new ideas with everybody!"
+	}
 ]
