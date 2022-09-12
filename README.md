@@ -1,10 +1,10 @@
 # Cyprus Developer Community Home
 
 <p align="center flex">
-  <a href="https://cdc.cy/cyprusjs" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/cyprusjs.jpeg" width="356" height="200" /></a>
-  <a href="https://cdc.cy/aws" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/aws-user-group-cyprus.jpg" width="317" height="200" /></a>
+  <a href="https://cdc.cy/cyprusjs" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/cyprusjs.png" width="356" height="200" /></a>
+  <a href="https://cdc.cy/aws" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/aws-user-group-cyprus.png" width="317" height="200" /></a>
   <a href="https://cdc.cy/gdg" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/gdgcyprus.png" width="200" height="200" /></a>
-  <a href="https://cdc.cy/pydata" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/pydata-cyprus.jpeg" width="488" height="200" /></a>
+  <a href="https://cdc.cy/pydata" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/pydata-cyprus.png" width="488" height="200" /></a>
 </p>
 
 [Join us on Discord](https://chat.cdc.cy) or participate in our
@@ -13,7 +13,6 @@
 ## JavaScript User Group (@CyprusJS)
 
 - [cyprusjs.org](https://cyprusjs.org)
-- [Twitter](https://twitter.com/cyprusjs)
 
 ## AWS User Group
 
@@ -23,11 +22,13 @@
 
 ## PyData
 
-- [PyData-Cyprus on Meetup](https://www.meetup.com/PyData-Cyprus/photos/28496134/)
+- [PyData-Cyprus on Meetup](https://www.meetup.com/PyData-Cyprus)
 
 ## Google Developer Group (GDG) Cyprus
 
-- [GDG Cyprus on Meetup](https://www.meetup.com/GDG-Cyprus/) -[GDG Cyprus on Google Developer Groups](https://gdg.community.dev/gdg-cyprus/)
+- [GDG Cyprus on Meetup](https://www.meetup.com/GDG-Cyprus/) 
+- [GDG Cyprus on Google Developer Groups](https://gdg.community.dev/gdg-cyprus/)
+- [GDG Cyprus on Facebook](https://www.facebook.com/GDGCyprus)
 
 ## Organizers Team
 
