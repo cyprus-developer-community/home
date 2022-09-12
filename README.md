@@ -32,72 +32,86 @@
 
 ## Organizers Team
 
-<table border="0" style="border:0;"><tr><td valign="top" width="25%" border="0" style="border: 0;">
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/3581331?s=150&u=d711e3721be68423ef984bbce4fc9c370db34352&v=4" alt="Nicholas Verban" width="150" height="150" />
-    <p>Nicholas Verban, Co-Organizer @ AWS User Group Cyprus</p>
-  </div>
-</td><td valign="top" width="25%" border="0" style="border: 0;">
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/63235638?s=150&u=b4ffc7f873d4c9092ece660b52d2121b42d12e3b&v=4" alt="xanthos-symeou" width="150" height="150" />
-    <p>xanthos-symeou, Co-Organizer @ AWS User Group Cyprus</p>
-  </div>
-</td><td valign="top" width="25%" border="0" style="border: 0;">
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/74390?s=150&u=c38bfc3b0dd1d882af020b66654fff725e0d6652&v=4" alt="Patrick Heneise" width="150" height="150" />
-    <p>Patrick Heneise, Co-Organizer @ CyprusJS</p>
-  </div>
-</td><td valign="top" width="25%" border="0" style="border: 0;">
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/1552189?s=150&u=5be73c5cc51843792b283a17ab360de8d527cd5d&v=4" alt="Michael サイトー 中村 Bashurov" width="150" height="150" />
-    <p>Michael サイトー 中村 Bashurov, Co-Organizer @ CyprusJS</p>
-  </div>
-</td></tr><tr><td valign="top" width="25%" border="0" style="border: 0;">
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/1167460?s=150&u=aa86f3272605419cfea5fd92dbdaa01615cbc04a&v=4" alt="GalatiaPar" width="150" height="150" />
-    <p>GalatiaPar, Co-Organizer @ GDG Cyprus</p>
-  </div>
-</td><td valign="top" width="25%" border="0" style="border: 0;">
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/2454869?s=150&u=249aa838716f7e5d0dc9ba61bdd3896600a9b3c6&v=4" alt="Maria" width="150" height="150" />
-    <p>Maria, Co-Organizer @ GDG Cyprus</p>
-  </div>
-</td><td valign="top" width="25%" border="0" style="border: 0;">
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/5957042?s=150&u=fbf5c870338fca89f7f578186cdddec395bb660b&v=4" alt="Andreas Loizou (LACK3R)" width="150" height="150" />
-    <p>Andreas Loizou (LACK3R), Co-Organizer @ GDG Cyprus</p>
-  </div>
-</td><td valign="top" width="25%" border="0" style="border: 0;">
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/6929760?s=150&u=b339feffc11fd3c89681c47f21025c9a09e35ddf&v=4" alt="Andreas" width="150" height="150" />
-    <p>Andreas, Co-Organizer @ GDG Cyprus</p>
-  </div>
-</td></tr><tr><td valign="top" width="25%" border="0" style="border: 0;">
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/44052587?s=150&v=4" alt="michdim" width="150" height="150" />
-    <p>michdim, Co-Organizer @ GDG Cyprus</p>
-  </div>
-</td><td valign="top" width="25%" border="0" style="border: 0;">
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/5957042?s=150&u=fbf5c870338fca89f7f578186cdddec395bb660b&v=4" alt="Andreas Loizou (LACK3R)" width="150" height="150" />
-    <p>Andreas Loizou (LACK3R), Co-Organizer @ Hack Cyprus Developers</p>
-  </div>
-</td><td valign="top" width="25%" border="0" style="border: 0;">
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/6929760?s=150&u=b339feffc11fd3c89681c47f21025c9a09e35ddf&v=4" alt="Andreas" width="150" height="150" />
-    <p>Andreas, Co-Organizer @ Hack Cyprus Developers</p>
-  </div>
-</td></tr><tr><td valign="top" width="25%" border="0" style="border: 0;">
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/632662?s=150&u=cad667b286f5eb3a4613028ecb1e81a193723348&v=4" alt="Argyris Argyrou" width="150" height="150" />
-    <p>Argyris Argyrou, Co-Organizer @ PyData</p>
-  </div>
-</td><td valign="top" width="25%" border="0" style="border: 0;">
-  <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/4975761?s=150&u=fc863911950c3d745c07218eef07a5901f8689e5&v=4" alt="Nick Sorros" width="150" height="150" />
-    <p>Nick Sorros, Co-Organizer @ PyData</p>
-  </div>
-</td></tr></table>
+<table border="0" style="border:0;">
+<tr>
+  <td valign="top" width="25%" border="0" style="border: 0;">
+    <div align="center">
+      <img src="https://avatars.githubusercontent.com/u/3581331?s=150&u=d711e3721be68423ef984bbce4fc9c370db34352&v=4" alt="Nicholas Verban" width="150" height="150" />
+      <p>Nicholas Verban, Co-Organizer @ AWS User Group Cyprus</p>
+    </div>
+  </td>
+  <td valign="top" width="25%" border="0" style="border: 0;">
+    <div align="center">
+      <img src="https://avatars.githubusercontent.com/u/63235638?s=150&u=b4ffc7f873d4c9092ece660b52d2121b42d12e3b&v=4" alt="xanthos-symeou" width="150" height="150" />
+      <p>xanthos-symeou, Co-Organizer @ AWS User Group Cyprus</p>
+    </div>
+  </td>
+  <td valign="top" width="25%" border="0" style="border: 0;">
+    <div align="center">
+      <img src="https://avatars.githubusercontent.com/u/1552189?s=150&u=5be73c5cc51843792b283a17ab360de8d527cd5d&v=4" alt="Michael サイトー 中村 Bashurov" width="150" height="150" />
+      <p>Michael サイトー 中村 Bashurov, Co-Organizer @ CyprusJS</p>
+    </div>
+  </td>
+  <td valign="top" width="25%" border="0" style="border: 0;">
+    <div align="center">
+      <img src="https://avatars.githubusercontent.com/u/1167460?s=150&u=aa86f3272605419cfea5fd92dbdaa01615cbc04a&v=4" alt="GalatiaPar" width="150" height="150" />
+      <p>GalatiaPar, Co-Organizer @ GDG Cyprus</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td valign="top" width="25%" border="0" style="border: 0;">
+    <div align="center">
+      <img src="https://avatars.githubusercontent.com/u/2454869?s=150&u=249aa838716f7e5d0dc9ba61bdd3896600a9b3c6&v=4" alt="Maria" width="150" height="150" />
+      <p>Maria, Co-Organizer @ GDG Cyprus</p>
+    </div>
+  </td>
+  <td valign="top" width="25%" border="0" style="border: 0;">
+    <div align="center">
+      <img src="https://avatars.githubusercontent.com/u/5957042?s=150&u=fbf5c870338fca89f7f578186cdddec395bb660b&v=4" alt="Andreas Loizou (LACK3R)" width="150" height="150" />
+      <p>Andreas Loizou (LACK3R), Co-Organizer @ GDG Cyprus</p>
+    </div>
+  </td>
+  <td valign="top" width="25%" border="0" style="border: 0;">
+    <div align="center">
+      <img src="https://avatars.githubusercontent.com/u/6929760?s=150&u=b339feffc11fd3c89681c47f21025c9a09e35ddf&v=4" alt="Andreas" width="150" height="150" />
+      <p>Andreas, Co-Organizer @ GDG Cyprus</p>
+    </div>
+  </td>
+  <td valign="top" width="25%" border="0" style="border: 0;">
+    <div align="center">
+      <img src="https://avatars.githubusercontent.com/u/44052587?s=150&v=4" alt="michdim" width="150" height="150" />
+      <p>michdim, Co-Organizer @ GDG Cyprus</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td valign="top" width="25%" border="0" style="border: 0;">
+    <div align="center">
+      <img src="https://avatars.githubusercontent.com/u/5957042?s=150&u=fbf5c870338fca89f7f578186cdddec395bb660b&v=4" alt="Andreas Loizou (LACK3R)" width="150" height="150" />
+      <p>Andreas Loizou (LACK3R), Co-Organizer @ Hack Cyprus Developers</p>
+    </div>
+  </td>
+  <td valign="top" width="25%" border="0" style="border: 0;">
+    <div align="center">
+      <img src="https://avatars.githubusercontent.com/u/6929760?s=150&u=b339feffc11fd3c89681c47f21025c9a09e35ddf&v=4" alt="Andreas" width="150" height="150" />
+      <p>Andreas, Co-Organizer @ Hack Cyprus Developers</p>
+    </div>
+  </td>
+  <td valign="top" width="25%" border="0" style="border: 0;">
+    <div align="center">
+      <img src="https://avatars.githubusercontent.com/u/632662?s=150&u=cad667b286f5eb3a4613028ecb1e81a193723348&v=4" alt="Argyris Argyrou" width="150" height="150" />
+      <p>Argyris Argyrou, Co-Organizer @ PyData</p>
+    </div>
+  </td>
+  <td valign="top" width="25%" border="0" style="border: 0;">
+    <div align="center">
+      <img src="https://avatars.githubusercontent.com/u/4975761?s=150&u=fc863911950c3d745c07218eef07a5901f8689e5&v=4" alt="Nick Sorros" width="150" height="150" />
+      <p>Nick Sorros, Co-Organizer @ PyData</p>
+    </div>
+  </td>
+</tr>
+</table>
 
 ## Code of Conduct
 
