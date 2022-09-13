@@ -5,6 +5,7 @@
   <a href="https://cdc.cy/aws" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/aws-user-group-cyprus.png" width="317" height="200" /></a>
   <a href="https://cdc.cy/gdg" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/gdgcyprus.png" width="200" height="200" /></a>
   <a href="https://cdc.cy/pydata" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/pydata-cyprus.png" width="488" height="200" /></a>
+  <a href="https://cdc.cy/cyprus-software-craftsmanship-community" target="_blank"><img src="https://github.com/cyprus-developer-community/home/blob/main/assets/cyprus-software-craftsmanship-community.png" width="488" height="200" /></a>
 </p>
 
 [Join us on Discord](https://chat.cdc.cy) or participate in our
@@ -26,9 +27,13 @@
 
 ## Google Developer Group (GDG) Cyprus
 
-- [GDG Cyprus on Meetup](https://www.meetup.com/GDG-Cyprus/) 
+- [GDG Cyprus on Meetup](https://www.meetup.com/GDG-Cyprus/)
 - [GDG Cyprus on Google Developer Groups](https://gdg.community.dev/gdg-cyprus/)
 - [GDG Cyprus on Facebook](https://www.facebook.com/GDGCyprus)
+
+## Cyprus Software Craftsmanship Community
+
+- [CSCC on Meetup](https://www.meetup.com/software-craftsmanship-community-cyprus)
 
 ## Organizers Team
 
@@ -108,6 +113,14 @@
     <div align="center">
       <img src="https://avatars.githubusercontent.com/u/4975761?s=150&u=fc863911950c3d745c07218eef07a5901f8689e5&v=4" alt="Nick Sorros" width="150" height="150" />
       <p>Nick Sorros, Co-Organizer @ PyData</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td valign="top" width="25%" border="0" style="border: 0;">
+    <div align="center">
+      <img src="https://avatars.githubusercontent.com/u/5957042?s=150&u=fbf5c870338fca89f7f578186cdddec395bb660b&v=4" alt="Andreas Loizou (LACK3R)" width="150" height="150" />
+      <p>Andreas Loizou (LACK3R), Organizer @ Cyprus Software Craftsmanship Community</p>
     </div>
   </td>
 </tr>

@@ -142,5 +142,28 @@
 			}
 		],
 		"excerpt": "PyData Cyprus is the Cyprus chapter of the international PyData community. This is a group for anyone interested in data science. All skill levels are welcome. We started this group because we want to meet other enthusiasts in the area. We're looking forward to exploring exciting new ideas with everybody!"
+	},
+	{
+		"name": "Cyprus Software Craftsmanship Community",
+		"slug": "cyprus-software-craftsmanship-community",
+		"logo": {
+			"png": "https://github.com/cyprus-developer-community/home/blob/main/assets/cyprus-software-craftsmanship-community.png?raw=true",
+			"width": 800,
+			"height": 385
+		},
+		"organizers": [
+			{
+				"name": "Andreas Loizou",
+				"github": "https://github.com/lack3r",
+				"avatar": "https://avatars.githubusercontent.com/u/5957042?s=150&v=4"
+			}
+		],
+		"links": [
+			{
+				"type": "meetup",
+				"href": "https://www.meetup.com/software-craftsmanship-community-cyprus"
+			}
+		],
+		"excerpt": "This is an open community for everyone who deeply cares about software development. We are a group of professionals who want to share their knowledge and learn from each other."
 	}
 ]
