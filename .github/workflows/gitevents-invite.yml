@@ -1,4 +1,4 @@
-name: GitEvents Inclusive Organization
+name: Inclusive Organization by GitEvents
 
 on:
   schedule:
@@ -15,7 +15,7 @@ on:
     types: [opened]
 
 jobs:
-  test:
+  invite:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
