@@ -165,5 +165,28 @@
 			}
 		],
 		"excerpt": "This is an open community for everyone who deeply cares about software development. We are a group of professionals who want to share their knowledge and learn from each other."
+	},
+	{
+		"name": "CyprusRust",
+		"slug": "cyprus-rust",
+		"logo": {
+			"png": "https://github.com/cyprusrust/CyprusRust/raw/master/assets/cyprus-rust.png?raw=true",
+			"width": 540,
+			"height": 540
+		},
+		"organizers": [
+			{
+				"name": "Federico Rampazzo",
+				"github": "https://github.com/framp",
+				"avatar": "https://avatars.githubusercontent.com/u/611109?s=150&v=4"
+			}
+		],
+		"links": [
+			{
+				"type": "website",
+				"href": "https://cyprusrust.org"
+			}
+		],
+		"excerpt": "CyprusRus is a community of Rust users in Cyprus who are passioned about sharing our knowledge and experiences with the language. Whether you are new to Rust or have been using the language for some time, we welcome you to join our community. We believe that by working together, we can all improve our skills and advance our knowledge of the language."
 	}
 ]
