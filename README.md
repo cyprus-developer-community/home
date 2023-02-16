@@ -1,12 +1,12 @@
 # Cyprus Developer Community Home
 
 <p align="center flex">
-  <a href="https://cdc.cy/cyprusjs" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/cyprusjs.png" width="356" height="200" /></a>
-  <a href="https://cdc.cy/aws" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/aws-user-group-cyprus.png" width="317" height="200" /></a>
-  <a href="https://cdc.cy/gdg" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/gdgcyprus.png" width="200" height="200" /></a>
-  <a href="https://cdc.cy/pydata" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/pydata-cyprus.png" width="488" height="200" /></a>
-  <a href="https://cdc.cy/cyprus-software-craftsmanship-community" target="_blank"><img src="https://github.com/cyprus-developer-community/home/blob/main/assets/cyprus-software-craftsmanship-community.png" width="488" height="200" /></a>
-  <a href="https://cdc.cy/cyprusrust" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/cyprus-rust.png" width="200" height="200" /></a>
+  <a href="https://cdc.cy/groups/cyprus-js" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/cyprusjs.png" width="356" height="200" /></a>
+  <a href="https://cdc.cy/groups/aws-cy" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/aws-user-group-cyprus.png" width="317" height="200" /></a>
+  <a href="https://cdc.cy/groups/gdg-cy" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/gdgcyprus.png" width="200" height="200" /></a>
+  <a href="https://cdc.cy/groups/py-data-cy" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/pydata-cyprus.png" width="488" height="200" /></a>
+  <a href="https://cdc.cy/groups/cyprus-software-craftsmanship-community" target="_blank"><img src="https://github.com/cyprus-developer-community/home/blob/main/assets/cyprus-software-craftsmanship-community.png" width="488" height="200" /></a>
+  <a href="https://cdc.cy/groups/cyprus-rust" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/cyprus-rust.png" width="200" height="200" /></a>
 </p>
 
 [Join us on Discord](https://chat.cdc.cy) or participate in our
