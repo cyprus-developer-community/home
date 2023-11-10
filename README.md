@@ -1,4 +1,4 @@
-# Cyprus Developer Community Home
+## Cyprus Developer Community Home
 
 <p align="center flex">
   <a href="https://cdc.cy/groups/cyprus-js" target="_blank"><img src="https://raw.githubusercontent.com/cyprus-developer-community/home/main/assets/cyprusjs.png" width="356" height="200" /></a>
@@ -12,61 +12,25 @@
 [Join us on Discord](https://chat.cdc.cy) or participate in our
 [discussions on GitHub](https://github.com/cyprus-developer-community/home/discussions)
 
-### JavaScript User Group (@CyprusJS)
+### About
+
+The Cyprus Developer Community is an umbrella for developer and technology
+groups in Cyprus. You can join our Discord server to chat with other developers,
+share your knowledge, and get help from other community members; or join our
+regular events that we organize with our participating groups.
+
+### Participating Groups
 
 - [cyprusjs.org](https://cyprusjs.org)
-
-### AWS User Group
-
-- [AWS User Group Cyprus on Meetup](https://www.meetup.com/aws-users-cyprus/)
-- [AWS User Group Cyprus on LinkedIn](https://www.linkedin.com/groups/8915327/)
-- [AWS User Group Cyprus on Facebook](https://www.facebook.com/groups/1064046920727809)
-
-### Python User Group (@PyData)
-
+- [cyprusrust.org](https://cyprusrust.org/)
+- [CyprusRust on GitHub](https://github.com/cyprusrust)
 - [PyData-Cyprus on Meetup](https://www.meetup.com/PyData-Cyprus)
-
-### Google Developer Group (GDG) Cyprus
-
 - [GDG Cyprus on Meetup](https://www.meetup.com/GDG-Cyprus/)
 - [GDG Cyprus on Google Developer Groups](https://gdg.community.dev/gdg-cyprus/)
 - [GDG Cyprus on Facebook](https://www.facebook.com/GDGCyprus)
-
-### Cyprus Software Craftsmanship Community
-
 - [CSCC on Meetup](https://www.meetup.com/software-craftsmanship-community-cyprus)
 
-### Cyprus Rust
-
-- [cyprusrust.org](https://cyprusrust.org/)
-- [CyprusRust on GitHub](https://github.com/cyprusrust)
-
-## CDC Core Organizers Team
-
-<table border="0" style="border:0;">
-<tr>
-  <td valign="top" width="25%" border="0" style="border: 0;">
-    <div align="center">
-      <img src="https://avatars.githubusercontent.com/u/74390?s=150&u=a4ca023ac7d0d9a4e4319faa05588d054b85ef3a&v=4" alt="Patrick Heneise" width="150" height="150" />
-      <p><a href="https://github.com/PatrickHeneise">Patrick Heneise</a>, Co-Organizer</p>
-    </div>
-  </td>
-  <td valign="top" width="25%" border="0" style="border: 0;">
-    <div align="center">
-      <img src="https://avatars.githubusercontent.com/u/3581331?s=150&u=d711e3721be68423ef984bbce4fc9c370db34352&v=4" alt="Nicholas Verban" width="150" height="150" />
-      <p><a href="https://github.com/nverban">Nicholas Verban</a>, Co-Organizer</p>
-    </div>
-  </td>
-  <td valign="top" width="25%" border="0" style="border: 0;">
-    <div align="center">
-      <img src="https://avatars.githubusercontent.com/u/490885?s=150&v=4" alt="Eugene Terehov" width="150" height="150" />
-      <p><a href="https://github.com/terehov">Eugene Terehov</a>, Co-Organizer</p>
-    </div>
-  </td>
-</tr>
-</table>
-
-## Code of Conduct
+### Code of Conduct
 
 Our goal is to have an awesome, inclusive and safe community meetup where people
 meet, hang out together, chat, listen to talks, exchange ideas and make new
